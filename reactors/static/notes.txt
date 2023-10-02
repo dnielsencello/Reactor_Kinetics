@@ -1,0 +1,9 @@
+squirell cage
+ac dc motor
+3 phase power
+
+air pow vs moto pow
+
+look into fan vibration
+how do people detect fan stall
+how do accelerometers work
